@@ -1,2 +1,7 @@
 # Python-EmotionVariability2
-Python code for analyses and plots on Carr, Liu, &amp; Slepian paper (under review)
+Python code for analyses and plots on Carr, Liu, &amp; Slepian paper (under review):
+
+Here is the main Python code for analyses & plots on a paper entitled "Why, when, and how variability in emotion expression makes people 
+look authentic and leader-like" (Carr, Liu, & Slepian, under review). The current abstract for the paper is below (any other questions on the paper or code, please email Evan Carr at carr324@gmail.com; note that this data and manuscript are still in progress):
+
+"Authenticity has become a burgeoning research topic, but little work has examined concrete actions that make people appear more authentic.  In forming first impressions, we often depend on others’ emotional displays—but how variability in those expressions impacts rapid social perceptions, including those essential for workplace environments (e.g., leadership potential), remains unexplored. Across three studies, participants evaluated people that, over time, displayed either high-variability or low-variability distributions of positive and negative emotion expressions, despite averages of those expressions always being the same across conditions. Variability in emotion expression led to greater judgments of authenticity, making those individuals appear especially open and genuine. When considering people for leadership positions, greater emotion expression variability also increased ratings of leadership potential, by making the person appear uninhibited in their leadership (i.e., free and open to expressing underlying thoughts and feelings). People form nuanced impressions from the variability of people’s emotional expressions."
